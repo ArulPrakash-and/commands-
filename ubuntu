@@ -1,0 +1,22 @@
+#COMMANDS FOR LINUX UBUNTU:
+sudo apt install update       /update the os
+sudo apt install upgrade      /upgrade the os
+
+#TO ENTER DIRECTORY:
+cd 
+cd ..     /back to directory
+ls        /list the folders
+ls        /list all the files in 1/1
+
+#TO CREATE FILES & FOLDERS COMMANDS:
+mkdir     _folder_name
+touch     _file_name
+rm    -r  _folder_name  /folder remove
+rm   -r   _file_name    /file remove
+cat       _file_name
+
+#APPLICATION INSTALLATION COMMNADS:
+sudo apt install vlc                /vlc installation
+sudo apt install libreoffice       / like ms office 
+sudo snap                         /snap for linux app store 
+sudo apt                         /apt for direct from web 
