@@ -26,3 +26,5 @@ sudo apt install docker.io                /installing command
 sudo systemctl   start     docker         /start the Docker
 sudo systemctl   enable    docker         /enable the docker
 sudo systemctl   status    docker         /see the status of Docker
+Docker --version                          / for version
+sudo docker run "hello Word"              /Sample program
