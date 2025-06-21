@@ -1,0 +1,7 @@
+"Git user Profile creation and Commands"
+To kow the git properly to put a command in CMD "git"
+*then text lines shows in your git*
+
+User configuration "COMMANDS":
+=>git config --global user.name "Arulprakash-and"
+=>git config --global user.email "arulprakashanand@gmail.com"
